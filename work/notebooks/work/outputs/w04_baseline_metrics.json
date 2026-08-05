@@ -1,0 +1,19 @@
+{
+  "month": "2026-03",
+  "n_rows": 120812,
+  "base_decline_rate": 0.23309770552594114,
+  "k": 50,
+  "precision_at_k": 0.58,
+  "signal1_ctr_vs_position_verdict": "CONFIRMED",
+  "signal2_volume_vs_decline_verdict": "MIXED",
+  "reason_code_counts": {
+    "low_volume": 52625,
+    "ctr_underperform_visible": 40487,
+    "ctr_at_or_above_expected": 27650,
+    "unknown_position_tier": 50
+  },
+  "action_counts": {
+    "monitor": 80325,
+    "refresh": 40487
+  }
+}
